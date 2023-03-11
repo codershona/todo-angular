@@ -2,8 +2,20 @@
 
 ### Project Description:
 
+<br/>
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/224505117-25dcd61c-5876-41a7-874e-ea55904ff876.png" width=656>
+<br />
+<h3 align="center">👨🏻‍💻 TODO APP </h3>
+</p>
+
 ```
   ng new todo-angular
+```
+
+```
+  ng g c components/Todos
 ```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
